@@ -176,4 +176,4 @@ cargo run -- --mode create-bundle-volume
 - Monitor all transactions carefully
 - Keep backup of wallet private keys securely
 
-Developer: [@Manokil](https://t.me/Rust0x_726)
+Developer: (https://t.me/TStar_dev)
